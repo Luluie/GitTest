@@ -23,8 +23,7 @@ public class Hello
 
     public  static double Horner(int x,int n,int a)
     {
-        //int f = 0;
-
+        
 
         int[] vs = new int[n+1];
         for (int i = 0; i < n; i++)
