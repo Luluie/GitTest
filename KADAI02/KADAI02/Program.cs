@@ -31,23 +31,11 @@ namespace ConsoleApp1
             Console.WriteLine(Cal(x, a, b, c));//関数呼び出しと表示
 
         }
+
         static int Cal(int x, int a, int b, int c)
         {
             int Ans;//答え保存
-            var NN = Math.Pow(x, 2);
-            var N = Convert.ToInt32(NN);
             Ans = x * (a * x + b) + c;//計算式
-
-            return Ans;
-        }
-
-        static int TEST2(int x, int a, int b, int c)
-        {
-            int Ans;//答え保存
-            var NN = Math.Pow(x, 2);
-            var N = Convert.ToInt32(NN);
-            Ans = x * (a * x + b) + c;//計算式
-
             return Ans;
         }
     }
