@@ -5,3 +5,10 @@ D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.csprojAssemblyReference.cac
 D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.csproj.CoreCompileInputs.cache
 D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.exe
 D:\student\Desktop\KADAI02\KADAI02\obj\Debug\KADAI02.pdb
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\bin\Debug\KADAI02.exe.config
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\bin\Debug\KADAI02.exe
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\bin\Debug\KADAI02.pdb
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\obj\Debug\KADAI02.csprojAssemblyReference.cache
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\obj\Debug\KADAI02.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\obj\Debug\KADAI02.exe
+C:\Users\student\Documents\GitTest\KADAI02\KADAI02\obj\Debug\KADAI02.pdb
